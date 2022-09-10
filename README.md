@@ -99,11 +99,8 @@ _Do you intend to proceed the development of this tool?_
 
 ![wn84FpnDWU](https://user-images.githubusercontent.com/92334349/147401879-6e9d8012-e293-49f8-b77e-f1e9ddb35bb1.gif)
 
-## Messages
 
-![PicasaPhotoViewer_gjoRMIyQDM](https://user-images.githubusercontent.com/92334349/147390746-9d1aa380-9042-4630-a7aa-2a1145ea116b.png)
-
-## Hidden Foulder
+## Hidden Folder
 
 ![explorer_idvTX28Ly4](https://user-images.githubusercontent.com/92334349/147340598-a9accbd0-299d-4ce4-9c72-136715023bef.png)
 
