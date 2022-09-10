@@ -101,10 +101,6 @@ _Do you intend to proceed the development of this tool?_
 
 ## Messages
 
-![firefox_5Gp9T9XDPn](https://user-images.githubusercontent.com/92334349/147340577-da4645e8-4bf6-4610-85e4-1564ff48f058.png)
-
-![PicasaPhotoViewer_tnWrOMeImg](https://user-images.githubusercontent.com/92334349/147390780-3f440d08-a720-45a0-bfa3-465012769989.png)
-
 ![PicasaPhotoViewer_gjoRMIyQDM](https://user-images.githubusercontent.com/92334349/147390746-9d1aa380-9042-4630-a7aa-2a1145ea116b.png)
 
 ## Hidden Foulder
